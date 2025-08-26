@@ -1,5 +1,11 @@
 *.*
 
+!Matlab/
+!Python/
+
+!Matlab/**
+!Python/**
+
 !*.py
 !.m
 !.gitignore
