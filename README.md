@@ -1,6 +1,6 @@
 # 数据可视化工具集
 
-本项目提供一系列基于Matlab和Python的数据可视化工具，旨在帮助研究人员和工程师快速生成高质量、多样化的数据图表。
+本项目提供一系列基于Matlab和Python的数据可视化工具，旨在快速生成高质量、多样化的数据图表。
 
 ## 项目结构
 
@@ -40,7 +40,13 @@ Figure-Model/
 │   ├── test_sankey_diagram.m  # 桑基图测试
 │   └── ViolinHeatmap.m        # 小提琴热力图
 │
-└── Python/                    # Python可视化工具集（待开发）
+└── Python/                    # Python可视化工具集(待完善)
+    ├── bubble_plot.py
+    ├── diverging_scatter.py
+    ├── filled_2D_line.py
+    ├── filled_3D_line.py
+    ├── grouped_bar.py
+    └── grouped_line.py
 ```
 
 ## 功能特性
